@@ -66,9 +66,14 @@ The following checks were performed to verify the deployment:
 
 Screenshots documenting the network configuration and successful access to the T-Pot interface can be included below.
 
- <img src="screenshots/VM Network Config.png" width="550" alt="VirtualBox network settings">
- <img src="screenshots/tpot web.png" width="550" alt="T-Pot Web Interface">
 
+<img src="../Prerequisites%20%26%20Installation/screenshots/VM%20Network%20Config.png" width="550" alt="VirtualBox network settings">
+
+<sub>VirtualBox network configuration showing NAT and port forwarding settings.</sub>
+
+<img src="../Prerequisites%20%26%20Installation/screenshots/tpot%20web.png" width="550" alt="T-Pot Web Interface">
+
+<sub>T-Pot web interface showing successful access to the deployed platform.</sub>
 ## 🔐 SECURITY CONSIDERATIONS
 
 Sensitive configuration details, including login credentials and private network information, are excluded from this documentation.
